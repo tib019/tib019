@@ -2,7 +2,7 @@
 
 ## QA-Engineer | Fachinformatiker für Anwendungsentwicklung | Full-Stack Developer | Cloud & KI Enthusiast
 
-Ich bin ein leidenschaftlicher QA-Engineer und Entwickler aus Hamburg mit Fokus auf **Dev-Ops**, **Full-Stack-Entwicklung**, **Cloud-Technologien** und **KI-Integration**. Aktuell schließe ich meine Umschulung zum Fachinformatiker für Anwendungsentwicklung (IHK) ab und plane, das Abitur am Abendgymnasium nachzuholen, um meine Interessen in Geschichte und Politik auf akademischem Niveau zu vertiefen.
+Ich bin ein leidenschaftlicher QA-Engineer und Entwickler aus Hamburg mit Fokus auf **Dev-Ops**, **Full-Stack-Entwicklung**, **Cloud-Technologien** und **KI-Integration**. Aktuell habe ixh meine Ausbildung zum Fachinformatiker für Anwendungsentwicklung (IHK) abgeschlossen und plane, das Abitur am Abendgymnasium nachzuholen, um meine Interessen in Geschichte und Politik auf akademischem Niveau zu vertiefen.
 
 ---
 
