@@ -2,19 +2,19 @@
 
 ## Software Engineer → Cloud & DevOps | Azure · IaC · Automation-first | Hamburg
 
-Fachinformatiker für Anwendungsentwicklung (IHK) mit produktivem Dev-Background in **Backend-Systemen, KI-Pipelines und Prozessautomatisierung** — heute im **Cloud-Engineering** unterwegs (Azure, DevOps, IaC) und weiter aktiv in der **Software-Entwicklung**. Ich baue Infrastruktur wie Code und Code wie Infrastruktur.
+Fachinformatiker für Anwendungsentwicklung (IHK) mit produktivem Dev-Background in **KI-Pipelines, Backend-Systemen und Prozessautomatisierung** — jetzt gezielt auf dem Weg zu **Cloud-Engineering, IaC und DevSecOps**. Ich baue Infrastruktur wie Code und Code wie Infrastruktur.
 
-Seit **Mai 2026** Cloud & Infrastructure Engineer bei **INCONSYS (Cpro Gruppe · Microsoft Partner · Hamburg)** — Fokus auf Azure, DevOps und dem Weg zum Consultant. Daneben baue ich weiter eigene Backend- und Fullstack-Projekte.
+Seit **Mai 2026** Cloud & Infrastructure Engineer bei **INCONSYS (Cpro Gruppe, Microsoft Partner)** — mit Fokus auf Azure, DevOps und dem Weg zum Consultant.
 
 ---
 
 ### Über mich
 
-- **Aktuell**: Cloud & Infrastructure Engineer @ INCONSYS *(Cpro Gruppe · Microsoft Partner · Hamburg)* — seit Mai 2026
-- **Davor**: Backend Engineer (KI & interne Tools) @ Healing Humans GmbH
+- **Seit Mai 2026**: Cloud & Infrastructure Engineer @ INCONSYS *(Cpro Gruppe · Microsoft Partner · Hamburg)*
+- **Bisherige Position**: Backend Engineer (KI & Interne Tools) @ Healing Humans GmbH
 - **Ausbildung**: Fachinformatiker für Anwendungsentwicklung (IHK) · GFN Hamburg · Abschluss Januar 2026
 - **Zertifikate**: Python Entry-Level Programmer (PCEP) · OpenEDG, Nov. 2024
-- **Schwerpunkte**: Cloud & DevOps (Azure · IaC · CI/CD) **+** Backend/Fullstack-Entwicklung (Python · TypeScript · Node)
+- **Ziel**: Cloud & DevOps Engineer — IaC · DevSecOps · Azure · Automation
 - **Kontakt**: tobias.buss.dev@gmail.com
 - **Standort**: Hamburg, Deutschland
 
@@ -53,7 +53,6 @@ Seit **Mai 2026** Cloud & Infrastructure Engineer bei **INCONSYS (Cpro Gruppe ·
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Datenbanken:**
 
@@ -67,16 +66,16 @@ Seit **Mai 2026** Cloud & Infrastructure Engineer bei **INCONSYS (Cpro Gruppe ·
 ### Highlight-Projekte
 
 #### [Healing Humans — KI-Pipeline & Sales Automation](https://github.com/tib019/healing-humans-automation-workflows)
-Vollautomatisierte KI-Pipeline für Sales-Call-Analyse und Webinar-Wissensmanagement. Close.io → Zapier → Google Drive → n8n → GPT-4o → Pinecone (RAG) — liefert KPI-Scores, Coaching-Empfehlungen und strukturierte Wissensbasen ohne manuellen Aufwand.
+Vollautomatisierte KI-Pipeline für Sales-Call-Analyse und Webinar-Wissensmanagement. Close.io → Zapier → Google Drive → n8n → GPT-4o → Pinecone (RAG) — liefert KPI-Scores, Coaching-Empfehlungen und strukturierte Wissensbasen ohne manuellen Aufwand. Drei separate Workflows: Transcript-Ingest, Call-Analyse und Webinar Knowledge Pipeline (Lehrbuch / Mindset / Biomechanik).
 
-**Tech:** n8n · Zapier · GPT-4o · Pinecone · Google Drive API · TypeScript
+**Tech:** n8n · Zapier · GPT-4o · GPT-4.1-mini · Pinecone · Google Drive API · TypeScript
 
 ---
 
-#### [Automated Trading System](https://github.com/tib019/automated-trading-system)
-KI-gestütztes Trading-System mit Sentiment-Analyse, Signal-Generator und Backtesting-Engine. Echtzeit-Datenverarbeitung, REST-API und React-Dashboard, vollständig containerisiert. Paper-Trading aktiv.
+#### [Cybersyn 2.0 — Kybernetisches Energiesteuerungsmodell](https://github.com/tib019/cybersyn2-hamburg)
+Kybernetisches Energiemanagement-System für Hamburg (inspiriert vom chilenischen Cybersyn, 1971). Drei Steuerungsstufen: PI-Regler, Model Predictive Control (MPC) und Sektorkopplung mit Algedonic Channel (Frühwarnsystem). Kein Showcase — ein funktionierendes Steuerungsmodell.
 
-**Tech:** Python · Flask · React · Docker
+**Tech:** Python · Regelungstechnik · MPC · IaC-Denken auf Systemebene
 
 ---
 
@@ -114,6 +113,8 @@ Mitarbeiter-Empfehlungsportal mit Azure-Cloud-Deployment und vollautomatischer C
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib019&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tib019&theme=tokyonight&hide_border=true)
+
 ---
 
 ### Aktuelle Ziele
@@ -136,7 +137,7 @@ Mitarbeiter-Empfehlungsportal mit Azure-Cloud-Deployment und vollautomatischer C
 ### Fun Facts
 
 - Warhammer 40k Fan (siehe [Wh40kDatenbank](https://github.com/tib019/Wh40kDatenbank))
-- Begeistert von Geschichte, Strategie & Systemdenken
+- Leidenschaftlich interessiert an Geschichte und Politik
 - Tattoo-Enthusiast (siehe [TattooTime V2](https://github.com/tib019/tattootimeV2))
 - Plattdeutsch-Lerner (siehe [Plattduutsch Lern-App](https://github.com/tib019/plattduutsch-lern-app))
 
