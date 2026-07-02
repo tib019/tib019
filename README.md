@@ -4,13 +4,13 @@
 
 Fachinformatiker für Anwendungsentwicklung (IHK) mit produktivem Dev-Background in **KI-Pipelines, Backend-Systemen und Prozessautomatisierung** — jetzt gezielt auf dem Weg zu **Cloud-Engineering, IaC und DevSecOps**. Ich baue Infrastruktur wie Code und Code wie Infrastruktur.
 
-Ab **15.05.2026** Cloud & Infrastructure Engineer bei **INCONSYS (Cpro Gruppe, Microsoft Partner)** — mit Fokus auf Azure, DevOps und dem Weg zum Consultant.
+Seit **Mai 2026** Cloud & Infrastructure Engineer bei **INCONSYS (Cpro Gruppe, Microsoft Partner)** — mit Fokus auf Azure, DevOps und dem Weg zum Consultant.
 
 ---
 
 ### Über mich
 
-- **Ab 15.05.2026**: Cloud & Infrastructure Engineer @ INCONSYS *(Cpro Gruppe · Microsoft Partner · Hamburg)*
+- **Seit Mai 2026**: Cloud & Infrastructure Engineer @ INCONSYS *(Cpro Gruppe · Microsoft Partner · Hamburg)*
 - **Bisherige Position**: Backend Engineer (KI & Interne Tools) @ Healing Humans GmbH
 - **Ausbildung**: Fachinformatiker für Anwendungsentwicklung (IHK) · GFN Hamburg · Abschluss Januar 2026
 - **Zertifikate**: Python Entry-Level Programmer (PCEP) · OpenEDG, Nov. 2024
@@ -143,4 +143,4 @@ Mitarbeiter-Empfehlungsportal mit Azure-Cloud-Deployment und vollautomatischer C
 
 ---
 
-*Letztes Update: Mai 2026*
+*Letztes Update: Juni 2026*
