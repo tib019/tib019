@@ -1,8 +1,5 @@
 # Hi, ich bin Tobias
 
-![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
-![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
-
 ## Software Engineer → Cloud & DevOps | Azure · IaC · Automation-first | Hamburg
 
 Fachinformatiker für Anwendungsentwicklung (IHK) mit produktivem Dev-Background in **KI-Pipelines, Backend-Systemen und Prozessautomatisierung** — jetzt gezielt auf dem Weg zu **Cloud-Engineering, IaC und DevSecOps**. Ich baue Infrastruktur wie Code und Code wie Infrastruktur.
@@ -31,6 +28,7 @@ Seit **Mai 2026** Cloud & Infrastructure Engineer bei **INCONSYS (Cpro Gruppe, M
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -41,7 +39,7 @@ Seit **Mai 2026** Cloud & Infrastructure Engineer bei **INCONSYS (Cpro Gruppe, M
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **KI & Automatisierung:**
 
@@ -55,12 +53,15 @@ Seit **Mai 2026** Cloud & Infrastructure Engineer bei **INCONSYS (Cpro Gruppe, M
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Datenbanken:**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
@@ -68,24 +69,40 @@ Seit **Mai 2026** Cloud & Infrastructure Engineer bei **INCONSYS (Cpro Gruppe, M
 
 ### Highlight-Projekte
 
+#### [Sourcerer — RAG-System mit belegbaren Antworten](https://github.com/tib019/sourcerer)
+**➜ [Live-Demo](https://sourcerer-two.vercel.app)**
+
+NotebookLM-Klon: Dokumente hochladen, Fragen stellen, Antworten **ausschließlich aus den Quellen** — mit klickbaren Zitaten, die auf die Original-Textstelle zeigen. Dazu Studio-Werkzeuge (Bericht, Karteikarten, Quiz, Mindmap, Audio-Overview). Der URL-Import ist gegen SSRF gehärtet: interne Ziele geblockt, Weiterleitungen einzeln geprüft.
+
+Läuft komplett offline mit deterministischen Fake-Providern — ohne API-Keys, ohne Netz, ohne Kosten.
+
+**Tech:** Python · FastAPI · Next.js · TypeScript · Supabase · Pinecone
+**Substanz:** 154 Tests · 11 ADRs · CI · Playwright-E2E
+
+---
+
+#### [Argo Aviation Referral Portal](https://github.com/tib019/argo-aviation-referral-portal)
+**➜ [Live-Demo](https://argo-aviation-referral-portal.vercel.app)**
+
+Mitarbeiter-Empfehlungsportal mit Azure-Cloud-Deployment und vollautomatischer CI/CD-Pipeline.
+
+**Tech:** Python · Flask · Azure SQL · GitHub Actions
+**Substanz:** 112 Tests (Unit · funktional · Regression)
+
+---
+
+#### [PHANTOM — OSINT Investigation Platform](https://github.com/tib019/OsintToolProlatraion)
+Transform-basierte Ermittlungsplattform mit Graph-Oberfläche: E-Mail-, Domain-, Username- und Telefon-Aufklärung über austauschbare Transform-Module. Ohne hinterlegte API-Schlüssel arbeiten die Module als No-Op statt zu raten.
+
+**Tech:** Python · FastAPI · React · PostgreSQL · Redis · Docker
+**Substanz:** 99 Tests · CI mit 5 Jobs (Lint · Typecheck · Tests · E2E · Docker-Build)
+
+---
+
 #### [Healing Humans — KI-Pipeline & Sales Automation](https://github.com/tib019/healing-humans-automation-workflows)
-Vollautomatisierte KI-Pipeline für Sales-Call-Analyse und Webinar-Wissensmanagement. Close.io → Zapier → Google Drive → n8n → GPT-4o → Pinecone (RAG) — liefert KPI-Scores, Coaching-Empfehlungen und strukturierte Wissensbasen ohne manuellen Aufwand. Drei separate Workflows: Transcript-Ingest, Call-Analyse und Webinar Knowledge Pipeline (Lehrbuch / Mindset / Biomechanik).
+Vollautomatisierte KI-Pipeline für Sales-Call-Analyse und Webinar-Wissensmanagement. Close.io → Zapier → Google Drive → n8n → GPT-4o → Pinecone (RAG) — liefert KPI-Scores, Coaching-Empfehlungen und strukturierte Wissensbasen ohne manuellen Aufwand. Drei separate Workflows: Transcript-Ingest, Call-Analyse und Webinar Knowledge Pipeline.
 
 **Tech:** n8n · Zapier · GPT-4o · GPT-4.1-mini · Pinecone · Google Drive API · TypeScript
-
----
-
-#### [Cybersyn 2.0 — Kybernetisches Energiesteuerungsmodell](https://github.com/tib019/cybersyn2-hamburg)
-Kybernetisches Energiemanagement-System für Hamburg (inspiriert vom chilenischen Cybersyn, 1971). Drei Steuerungsstufen: PI-Regler, Model Predictive Control (MPC) und Sektorkopplung mit Algedonic Channel (Frühwarnsystem). Kein Showcase — ein funktionierendes Steuerungsmodell.
-
-**Tech:** Python · Regelungstechnik · MPC · IaC-Denken auf Systemebene
-
----
-
-#### [OpenClaw — Autonomer Job-Such-Agent](https://github.com/tib019/openclaw-job-application-agent)
-Multi-Agent-System (3 Microservices) zur automatisierten Jobsuche mit Match-Scoring-Algorithmus. Vollständig containerisiert, 90+ Unit Tests (pytest).
-
-**Tech:** Python · Docker · OpenAI API | **Tests:** 90+
 
 ---
 
@@ -93,20 +110,27 @@ Multi-Agent-System (3 Microservices) zur automatisierten Jobsuche mit Match-Scor
 Chrome-Extension zur Automatisierung von Zoho-Creator-Support-Tickets. OAuth2-Auth, Cloudflare-Worker-Backend. **Zeitersparnis: −90%** (5 Min. → 30 Sek.).
 
 **Tech:** JavaScript · Chrome Extension API · OAuth2 · Cloudflare Workers
+**Substanz:** 29 Tests
 
 ---
 
-#### [QA Documentation Generator](https://github.com/tib019/qa-documentation-generator)
-PowerShell-Tool zur automatisierten QA-Dokumentation in Azure DevOps CI/CD-Pipelines. **80% Zeitersparnis** (15 min → 2 min pro Dokument).
+#### [Cybersyn 2.0 — Kybernetisches Energiesteuerungsmodell](https://github.com/tib019/cybersyn2-hamburg)
+Energiemanagement-Modell für Hamburg, inspiriert vom chilenischen Cybersyn (1971). Drei Steuerungsstufen: PI-Regler, Model Predictive Control (MPC) und Sektorkopplung mit Algedonic Channel als Frühwarnsystem.
 
-**Tech:** PowerShell · Azure DevOps · JSON · Markdown
+**Tech:** Python · Regelungstechnik · MPC
 
 ---
 
-#### [Argo Aviation Referral Portal](https://github.com/tib019/argo-aviation-referral-portal)
-Mitarbeiter-Empfehlungsportal mit Azure-Cloud-Deployment und vollautomatischer CI/CD-Pipeline.
+### Weitere Projekte
 
-**Tech:** Python · Flask · Azure SQL · GitHub Actions
+| Projekt | Worum es geht |
+|---|---|
+| [QA Documentation Generator](https://github.com/tib019/qa-documentation-generator) | PowerShell-Tool für QA-Doku in Azure-DevOps-Pipelines — 15 min → 2 min pro Dokument |
+| [OpenClaw](https://github.com/tib019/openclaw-job-application-agent) | Multi-Agent-System zur automatisierten Jobsuche mit Match-Scoring · 59 Tests |
+| [DropchipAI](https://github.com/tib019/DropchipAI) | KI-gestützte Dropshipping-Automatisierung für Shopify und eBay — Produktrecherche, Lieferantenbewertung, Content-Generierung |
+| [TattooTime V2](https://github.com/tib019/tattootimeV2) | Buchungsplattform für Tattoo-Studios · Firebase · Cloud Functions |
+| [ANTI-KI](https://github.com/tib019/anti-ki) | Multi-Agenten-System mit RAG-Pipeline und Graph-Datenbank zur Narrativanalyse |
+| [Plattduutsch Lern-App](https://github.com/tib019/plattduutsch-lern-app) | Sprachlern-App für Niederdeutsch · Next.js |
 
 ---
 
@@ -120,7 +144,7 @@ Mitarbeiter-Empfehlungsportal mit Azure-Cloud-Deployment und vollautomatischer C
 
 ---
 
-### Aktuelle Ziele
+### Woran ich gerade arbeite
 
 - **Azure-Zertifizierungen**: AZ-900 → AZ-104 → AZ-400 (DevOps Engineer Expert)
 - **IaC**: Terraform & Azure Bicep produktiv einsetzen
@@ -143,7 +167,3 @@ Mitarbeiter-Empfehlungsportal mit Azure-Cloud-Deployment und vollautomatischer C
 - Leidenschaftlich interessiert an Geschichte und Politik
 - Tattoo-Enthusiast (siehe [TattooTime V2](https://github.com/tib019/tattootimeV2))
 - Plattdeutsch-Lerner (siehe [Plattduutsch Lern-App](https://github.com/tib019/plattduutsch-lern-app))
-
----
-
-*Letztes Update: Juni 2026*
