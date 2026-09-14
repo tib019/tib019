@@ -1,5 +1,8 @@
 # Hi, ich bin Tobias
 
+![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
+![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+
 ## Software Engineer → Cloud & DevOps | Azure · IaC · Automation-first | Hamburg
 
 Fachinformatiker für Anwendungsentwicklung (IHK) mit produktivem Dev-Background in **KI-Pipelines, Backend-Systemen und Prozessautomatisierung** — jetzt gezielt auf dem Weg zu **Cloud-Engineering, IaC und DevSecOps**. Ich baue Infrastruktur wie Code und Code wie Infrastruktur.
