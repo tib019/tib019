@@ -4,7 +4,7 @@
 
 Fachinformatiker für Anwendungsentwicklung (IHK) mit produktivem Dev-Background in **KI-Pipelines, Backend-Systemen und Prozessautomatisierung** — jetzt gezielt auf dem Weg zu **Cloud-Engineering, IaC und DevSecOps**. Ich baue Infrastruktur wie Code und Code wie Infrastruktur.
 
-Seit **Mai 2026** Cloud & Infrastructure Engineer bei **INCONSYS (Cpro Gruppe, Microsoft Partner)** — mit Fokus auf Azure, DevOps und dem Weg zum Consultant.
+Seit **September 2026** AI Engineere Engineer bei **Filehouse GmbH (Interne It Gesselschaft der MLHolding)**.
 
 ---
 
