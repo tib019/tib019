@@ -126,7 +126,6 @@ PowerShell-Tool zur automatisierten QA-Dokumentation in Azure-DevOps-Pipelines. 
 - **LLM-Systeme, die nachweisbar richtig liegen** — Grounding, Zitierbarkeit, deterministische Prüfregeln statt „das Modell sagt schon das Richtige"
 - **Regulatorische Domänen als Software** — Ursprungsregeln, Präferenzrecht, Fristenlogik: Bereiche, in denen ein falsches Ergebnis echte Konsequenzen hat
 - **Kostenbewusste KI-Architektur** — skalierbar gebaut statt teuer pro Abfrage
-- **Azure-Zertifizierungspfad** AZ-900 → AZ-104 → AZ-400
 
 ---
 
