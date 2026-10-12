@@ -14,7 +14,9 @@ Aktuell: **KI-Entwickler bei der Filehouse GmbH**, der internen IT-Gesellschaft 
 |---|---|
 | **seit 09/2026** | **KI-Entwickler** · Filehouse GmbH (MLHolding-Gruppe), Hamburg |
 | 05/2026 – 08/2026 | Cloud & Infrastructure Engineer · INCONSYS (Cpro Gruppe, Microsoft Partner) |
-| 2025 – 2026 | Backend Engineer (KI & interne Tools) · Healing Humans GmbH |
+| 03/2026 – 05/2026 | Backend Engineer (KI & interne Tools) · Healing Humans GmbH |
+| 01/2026 – 03/2026 | Software Engineer (QA & DevOps) · HOSENSO GmbH, Neu Wulmstorf |
+| 05/2025 – 11/2025 | IT-Systemadministrator & Junior Consultant (Praktikum) · Argo Aviation GmbH, Hamburg |
 | Abschluss 01/2026 | Fachinformatiker für Anwendungsentwicklung (IHK) · GFN Hamburg |
 
 **Zertifikate:** Python Entry-Level Programmer (PCEP) · OpenEDG, Nov. 2024
@@ -55,7 +57,6 @@ Aktuell: **KI-Entwickler bei der Filehouse GmbH**, der internen IT-Gesellschaft 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 **Datenbanken**
@@ -92,16 +93,16 @@ Energiemanagement-System für Hamburg, inspiriert vom chilenischen Cybersyn (197
 ---
 
 #### 📈 [Automated Trading System](https://github.com/tib019/automated-trading-system)
-Vollständiges Trading-System mit KI-Sentiment-Analyse, Backtesting-Engine und Echtzeit-Dashboard. Containerisiert, Security-Score 95,5/100.
+Trading-System mit NLP-basierter Sentiment-Analyse, Backtesting-Engine, Risk-Manager mit Kill-Switch und Echtzeit-Dashboard. Containerisiert. **Paper-Trading, kein Echtgeld.**
 
 `Python` · `React` · `Docker` · `Flask` · `ML`
 
 ---
 
 #### 🤖 [OpenClaw — Autonomer Job-Such-Agent](https://github.com/tib019/openclaw-job-application-agent)
-Multi-Agent-System aus drei Microservices mit Match-Scoring-Algorithmus. Vollständig containerisiert, **90+ Unit Tests** (pytest).
+Agent mit Telegram-Steuerung: liest Stellenanzeigen, wählt passende Projekte aus dem eigenen GitHub aus, erzeugt Anschreiben und versendet Bewerbungen per Mail. Eigene Skills für Jobsuche, Parsing, Dokumentenerstellung und Mailversand, dazu Batch-Queue, Logging und Healthchecks. **59 Unit-Tests** (Jest), vollständig containerisiert.
 
-`Python` · `Docker` · `OpenAI API`
+`Node.js` · `JavaScript` · `Python (Telegram-Bot)` · `Docker` · `OpenAI API`
 
 ---
 
@@ -124,7 +125,6 @@ PowerShell-Tool zur automatisierten QA-Dokumentation in Azure-DevOps-Pipelines. 
 - **LLM-Systeme, die nachweisbar richtig liegen** — Grounding, Zitierbarkeit, deterministische Prüfregeln statt „das Modell sagt schon das Richtige"
 - **Regulatorische Domänen als Software** — Ursprungsregeln, Präferenzrecht, Fristenlogik: Bereiche, in denen ein falsches Ergebnis echte Konsequenzen hat
 - **Kostenbewusste KI-Architektur** — skalierbar gebaut statt teuer pro Abfrage
-- **Azure-Zertifizierungspfad** AZ-900 → AZ-104 → AZ-400
 
 ---
 
@@ -139,7 +139,7 @@ PowerShell-Tool zur automatisierten QA-Dokumentation in Azure-DevOps-Pipelines. 
 ### Kontakt
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobias.buss.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-bu%C3%9F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-buss)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tib019)
 
 ---
@@ -153,4 +153,4 @@ PowerShell-Tool zur automatisierten QA-Dokumentation in Azure-DevOps-Pipelines. 
 
 ---
 
-*Letztes Update: September 2026*
+*Letztes Update: Oktober 2026*
