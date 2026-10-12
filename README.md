@@ -14,7 +14,9 @@ Aktuell: **KI-Entwickler bei der Filehouse GmbH**, der internen IT-Gesellschaft 
 |---|---|
 | **seit 09/2026** | **KI-Entwickler** · Filehouse GmbH (MLHolding-Gruppe), Hamburg |
 | 05/2026 – 08/2026 | Cloud & Infrastructure Engineer · INCONSYS (Cpro Gruppe, Microsoft Partner) |
-| 2025 – 2026 | Backend Engineer (KI & interne Tools) · Healing Humans GmbH |
+| 03/2026 – 05/2026 | Backend Engineer (KI & interne Tools) · Healing Humans GmbH |
+| 01/2026 – 03/2026 | Software Engineer (QA & DevOps) · HOSENSO GmbH, Neu Wulmstorf |
+| 05/2025 – 11/2025 | IT-Systemadministrator & Junior Consultant (Praktikum) · Argo Aviation GmbH, Hamburg |
 | Abschluss 01/2026 | Fachinformatiker für Anwendungsentwicklung (IHK) · GFN Hamburg |
 
 **Zertifikate:** Python Entry-Level Programmer (PCEP) · OpenEDG, Nov. 2024
@@ -99,9 +101,9 @@ Vollständiges Trading-System mit KI-Sentiment-Analyse, Backtesting-Engine und E
 ---
 
 #### 🤖 [OpenClaw — Autonomer Job-Such-Agent](https://github.com/tib019/openclaw-job-application-agent)
-Multi-Agent-System aus drei Microservices mit Match-Scoring-Algorithmus. Vollständig containerisiert, **90+ Unit Tests** (pytest).
+Agent mit Telegram-Steuerung: liest Stellenanzeigen, wählt passende Projekte aus dem eigenen GitHub aus, erzeugt Anschreiben und versendet Bewerbungen per Mail. Eigene Skills für Jobsuche, Parsing, Dokumentenerstellung und Mailversand, dazu Batch-Queue, Logging und Healthchecks. **59 Unit-Tests** (Jest), vollständig containerisiert.
 
-`Python` · `Docker` · `OpenAI API`
+`Node.js` · `JavaScript` · `Python (Telegram-Bot)` · `Docker` · `OpenAI API`
 
 ---
 
@@ -139,7 +141,7 @@ PowerShell-Tool zur automatisierten QA-Dokumentation in Azure-DevOps-Pipelines. 
 ### Kontakt
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobias.buss.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-bu%C3%9F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-buss)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tib019)
 
 ---
@@ -153,4 +155,4 @@ PowerShell-Tool zur automatisierten QA-Dokumentation in Azure-DevOps-Pipelines. 
 
 ---
 
-*Letztes Update: September 2026*
+*Letztes Update: Oktober 2026*
