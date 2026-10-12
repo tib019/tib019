@@ -93,7 +93,7 @@ Energiemanagement-System für Hamburg, inspiriert vom chilenischen Cybersyn (197
 ---
 
 #### 📈 [Automated Trading System](https://github.com/tib019/automated-trading-system)
-Vollständiges Trading-System mit KI-Sentiment-Analyse, Backtesting-Engine und Echtzeit-Dashboard. Containerisiert, Security-Score 95,5/100.
+Trading-System mit NLP-basierter Sentiment-Analyse, Backtesting-Engine, Risk-Manager mit Kill-Switch und Echtzeit-Dashboard. Containerisiert. **Paper-Trading, kein Echtgeld.**
 
 `Python` · `React` · `Docker` · `Flask` · `ML`
 
